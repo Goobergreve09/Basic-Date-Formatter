@@ -10,6 +10,8 @@ This is a date formatter used with javascript, CSS, and HTML. It's a simple usag
 
 ![date](https://github.com/Goobergreve09/Basic-Date-Formatter/assets/143923830/700b2084-e661-4720-8eb8-8f5acb2eac35)
 
+You can see the completed project by cicking here --> [Date Formatter](https://goobergreve09.github.io/Basic-Date-Formatter/)
+
 
   
 ## Table of Contents
